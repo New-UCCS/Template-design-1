@@ -1,7 +1,7 @@
 # My awesome project! <!--Change this to your project name-->
 
 ## Screenshots
-<img src="https://i.gifer.com/758W.gif"/> <!--Change the link to your unique image/gif link-->
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/> <!--Change the link to your unique image/gif link-->
 
 <img src="https://c.tenor.com/nQ9u7CM1bDAAAAAM/hacking.gif"/> <!--Change the link to your unique image/gif link-->
 
