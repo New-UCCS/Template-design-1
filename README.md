@@ -6,9 +6,9 @@
 ```<img src="SOURCE TO IMAGE LINK"/>``` <!--Remove the ``` and the link will work-->
 
 ### Table of Content
-- [Description](link to header)
-- [How to play the game](link to header)
-- [Author Info](link to header)
+- [Description](https://github.com/New-UCCS/Template-design-1/blob/main/README.md#description)
+- [How to play the game](lhttps://github.com/New-UCCS/Template-design-1/blob/main/README.md#how-to-play-the-game)
+- [Author Info](https://github.com/New-UCCS/Template-design-1/blob/main/README.md#author-info)
 
 ## Description
 - Add a fun description of your work.
