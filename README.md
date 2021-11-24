@@ -7,7 +7,7 @@
 
 ### Table of Content
 - [Description](https://github.com/New-UCCS/Template-design-1/blob/main/README.md#description)<!--Change this link to your repos unique link-->
-- [How to use the app](lhttps://github.com/New-UCCS/Template-design-1/blob/main/README.md#how-to-use-the-app)<!--Change this link to your repos unique link-->
+- [How to use the app](https://github.com/New-UCCS/Template-design-1/blob/main/README.md#how-to-use-the-app)<!--Change this link to your repos unique link-->
 - [Author Info](https://github.com/New-UCCS/Template-design-1/blob/main/README.md#author-info)<!--Change this link to your repos unique link-->
 
 ## Description
