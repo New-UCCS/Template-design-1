@@ -1,9 +1,9 @@
 # My awesome project! <!--Change this to your project name-->
 
 ## Screenshots
-```<img src="SOURCE TO IMAGE LINK"/>``` <!--Remove the ``` and the link will work-->
+<img src="https://i.gifer.com/758W.gif"/> <!--Change the link to your unique image/gif link-->
 
-```<img src="SOURCE TO IMAGE LINK"/>``` <!--Remove the ``` and the link will work-->
+<img src="https://c.tenor.com/nQ9u7CM1bDAAAAAM/hacking.gif"/> <!--Change the link to your unique image/gif link-->
 
 ### Table of Contents
 - [Description](https://github.com/New-UCCS/Template-design-1/blob/main/README.md#description)<!--Change this link to your repos unique link-->
