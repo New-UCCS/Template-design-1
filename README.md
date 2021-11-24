@@ -5,7 +5,7 @@
 
 ```<img src="SOURCE TO IMAGE LINK"/>``` <!--Remove the ``` and the link will work-->
 
-### Table of Content
+### Table of Contents
 - [Description](https://github.com/New-UCCS/Template-design-1/blob/main/README.md#description)<!--Change this link to your repos unique link-->
 - [How to use the app](https://github.com/New-UCCS/Template-design-1/blob/main/README.md#how-to-use-the-app)<!--Change this link to your repos unique link-->
 - [Author Info](https://github.com/New-UCCS/Template-design-1/blob/main/README.md#author-info)<!--Change this link to your repos unique link-->
