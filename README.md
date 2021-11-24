@@ -1,4 +1,4 @@
-# ArenaGameFeel
+# My awesome project! <!--Change this to your project name-->
 
 ## Screenshots
 ```<img src="SOURCE TO IMAGE LINK"/>``` <!--Remove the ``` and the link will work-->
